@@ -34,3 +34,11 @@ margin: 20px;
 .movie_head span {
     color: orange;
 }
+
+.book {
+    margin-bottom: 20px;
+}
+ 
+#contact iframe {
+    width: 100%;
+}
